@@ -1,5 +1,5 @@
 Overview:
-This is the tinder-clone in which you can swipe left and right.
+This is the tinder-clone is a dating app in which you can swipe left and right for making a pair.
 
 Softwares Used: 
 React JS - for frontend
